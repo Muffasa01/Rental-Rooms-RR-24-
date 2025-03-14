@@ -1,2 +1,114 @@
 {"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T11:23:31.200Z"}
 {"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T11:24:32.428Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:09:48.447Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:30:47.514Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:42:07.781Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:48:22.875Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:50:27.326Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:51:16.508Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:54:52.912Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:56:47.842Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:57:37.059Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T12:57:49.508Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T13:12:57.268Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T13:18:05.120Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T13:18:13.062Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T13:19:18.219Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T13:20:00.943Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T13:20:22.048Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:00:22.750Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:02:26.765Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:11:19.372Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:12:24.594Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:14:46.584Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:16:54.503Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:18:51.947Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:20:16.202Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:36:04.536Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:39:01.943Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:47:31.162Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:48:21.335Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T14:49:38.465Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T16:02:20.064Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T16:10:20.534Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T16:14:04.021Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T16:14:52.308Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T16:17:28.945Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T16:17:50.775Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T16:22:07.692Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:01:50.340Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:05:00.739Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:01.122Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:01.124Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:06.121Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:06.123Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:11.119Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:11.120Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:16.118Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:16.119Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:21.115Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:21.116Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:26.115Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:26.116Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:31.108Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:31.110Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:36.115Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:36.116Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:41.115Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:41.116Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:46.119Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:46.119Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:51.119Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:51.120Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:05:56.107Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:05:56.108Z"}
+{"0":"/","1":"g","2":"r","3":"a","4":"p","5":"h","6":"q","7":"l","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:06:01.105Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:06:01.106Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:06:04.026Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:07:20.520Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:20.970Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:20.973Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:25.950Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:25.951Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:30.950Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:30.951Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:33.918Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:33.923Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:35.950Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:35.951Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:40.941Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:40.942Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:45.953Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:45.953Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:50.587Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:50.590Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:50.940Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:50.941Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:07:55.941Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:07:55.942Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:08:00.952Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:08:00.953Z"}
+{"0":"/","level":"info","message":"POST","service":"server-service","timestamp":"2025-03-14T17:08:05.946Z"}
+{"level":"info","service":"server-service","timestamp":"2025-03-14T17:08:05.947Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:08:11.764Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:10:44.824Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:11:57.301Z"}
+{"level":"info","message":"heeree","service":"server-service","timestamp":"2025-03-14T17:12:02.994Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:12:59.761Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:13:36.615Z"}
+{"level":"info","message":"heeree","service":"server-service","timestamp":"2025-03-14T17:13:40.008Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:14:35.772Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:15:31.192Z"}
+{"level":"info","message":{"address":{"city":"johannesburg","code":"1818","str_name":"vilakazi","suburb":"PGS"},"cell_number":"0722729932","complains":{"Description":"descrpt 2","subject":"new"},"date_of_birth":"2000-03-04","gender":"MALE","id":"21","lease_information":"lease info","name":"rendani","next_of_kin":{"cell_number":"0664629292","name":"Muffhiwa","relationship":"FRIEND","surname":"Nelushi"},"picture":"","role":"ADMIN","room_number":"425","status":{"code":"PENDING","reason":"not nown"},"surname":"Nelushi"},"service":"server-service","timestamp":"2025-03-14T17:18:27.380Z"}
+{"level":"info","message":{"address":{"city":"johannesburg","code":"1818","str_name":"vilakazi","suburb":"PGS"},"cell_number":"0722729932","complains":{"Description":"descrpt 2","subject":"new"},"date_of_birth":"2000-03-04","gender":"MALE","id":"21","lease_information":"lease info","name":"rendani","next_of_kin":{"cell_number":"0664629292","name":"Muffhiwa","relationship":"FRIEND","surname":"Nelushi"},"picture":"","role":"ADMIN","room_number":"425","status":{"code":"PENDING","reason":"not nown"},"surname":"Nelushi"},"service":"server-service","timestamp":"2025-03-14T17:18:27.382Z"}
+{"level":"error","message":"create user error: couldn't create users","service":"server-service","timestamp":"2025-03-14T17:18:27.420Z"}
+{"level":"info","message":{"address":{"city":"johannesburg","code":"1818","str_name":"vilakazi","suburb":"PGS"},"cell_number":"0722729932","complains":{"Description":"descrpt 2","subject":"new"},"date_of_birth":"2000-03-04","gender":"MALE","id":"21","lease_information":"lease info","name":"rendani","next_of_kin":{"cell_number":"0664629292","name":"Muffhiwa","relationship":"FRIEND","surname":"Nelushi"},"picture":"","role":"ADMIN","room_number":"425","status":{"code":"PENDING","reason":"not nown"},"surname":"Nelushi"},"service":"server-service","timestamp":"2025-03-14T17:18:53.985Z"}
+{"level":"info","message":{"address":{"city":"johannesburg","code":"1818","str_name":"vilakazi","suburb":"PGS"},"cell_number":"0722729932","complains":{"Description":"descrpt 2","subject":"new"},"date_of_birth":"2000-03-04","gender":"MALE","id":"21","lease_information":"lease info","name":"rendani","next_of_kin":{"cell_number":"0664629292","name":"Muffhiwa","relationship":"FRIEND","surname":"Nelushi"},"picture":"","role":"ADMIN","room_number":"425","status":{"code":"PENDING","reason":"not nown"},"surname":"Nelushi"},"service":"server-service","timestamp":"2025-03-14T17:18:53.989Z"}
+{"level":"error","message":"create user error: couldn't create users","service":"server-service","timestamp":"2025-03-14T17:18:53.990Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:19:25.355Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:19:46.996Z"}
+{"address":{"city":"johannesburg","code":"1818","str_name":"vilakazi","suburb":"PGS"},"cell_number":"0722729932","complains":{"Description":"descrpt 2","subject":"new"},"date_of_birth":"2000-03-04","gender":"MALE","id":"21","lease_information":"lease info","level":"info","message":"input: ","name":"rendani","next_of_kin":{"cell_number":"0664629292","name":"Muffhiwa","relationship":"FRIEND","surname":"Nelushi"},"picture":"","role":"ADMIN","room_number":"425","service":"server-service","status":{"code":"PENDING","reason":"not nown"},"surname":"Nelushi","timestamp":"2025-03-14T17:19:54.774Z"}
+{"level":"error","message":"create user error: couldn't create users","service":"server-service","timestamp":"2025-03-14T17:19:54.776Z"}
+{"level":"info","message":"Server Ready","service":"server-service","timestamp":"2025-03-14T17:21:36.297Z"}
+{"address":{"city":"johannesburg","code":"1818","str_name":"vilakazi","suburb":"PGS"},"cell_number":"0722729932","complains":{"Description":"descrpt 2","subject":"new"},"date_of_birth":"2000-03-04","gender":"MALE","id":"21","lease_information":"lease info","level":"info","message":"input: ","name":"rendani","next_of_kin":{"cell_number":"0664629292","name":"Muffhiwa","relationship":"FRIEND","surname":"Nelushi"},"picture":"","role":"ADMIN","room_number":"425","service":"server-service","status":{"code":"PENDING","reason":"not nown"},"surname":"Nelushi","timestamp":"2025-03-14T17:21:39.773Z"}
+{"level":"error","message":"create user error: couldn't create users","service":"server-service","timestamp":"2025-03-14T17:21:39.780Z"}
